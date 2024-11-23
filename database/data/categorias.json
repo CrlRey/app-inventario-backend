@@ -1,0 +1,16 @@
+[
+    { "nombre": "Audio"},
+    { "nombre": "Teléfonos"},
+    { "nombre": "Computadoras"},
+    { "nombre": "Televisores"},
+    { "nombre": "Tabletas"},
+    { "nombre": "Fotografía"},
+    { "nombre": "Wearables"},
+    { "nombre": "Accesorios"},
+    { "nombre": "Almacenamiento"},
+    { "nombre": "Impresión"},
+    { "nombre": "Seguridad"},
+    { "nombre": "Hogar"},
+    { "nombre": "Videojuegos"},
+    { "nombre": "Muebles"}
+]
